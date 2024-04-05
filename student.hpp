@@ -1,11 +1,11 @@
 #pragma once // prevents multiple definitions
 // Exercise 1: Hello, World
-int add(int a, int b)
-{
-    return 0; // TODO: fix
+int main() {
+    printf("Hello, World");
+    return 0;
 }
-// Exercise 2: implements function 'mul', that multiplies two numbers
-int mul(int a, int b)
+// Exercise 2: add 2 intergers
+int add(int a, int b)
 {
     return 0; // TODO: fix
 }
