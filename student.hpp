@@ -1,7 +1,7 @@
 #pragma once // prevents multiple definitions
 // Exercise 1: Hello, World
 int main() {
-    printf("Hello, World");
+    
     return 0;
 }
 // Exercise 2: add 2 intergers
