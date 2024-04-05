@@ -10,5 +10,5 @@ TEST_CASE("Ex1", "[example]")
 // tests for exercise 2
 TEST_CASE("Ex2", "[example]")
 {
-    REQUIRE(mul(3,3) == 9);
+    REQUIRE(add(1,1) == 2);
 }
